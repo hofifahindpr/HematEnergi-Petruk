@@ -1,0 +1,8 @@
+id_pencatatan,tanggal,bulan,pemakaian_kwh,tarif_per_kwh,estimasi_biaya,catatan
+1,2026-09-10,2026-09,120.0,1500.0,180000.0,Pemakaian awal bulan
+2,2026-09-25,2026-09,95.0,1500.0,142500.0,Akhir bulan
+3,2026-10-08,2026-10,110.0,1500.0,165000.0,AC kamar
+4,2026-10-22,2026-10,140.0,1500.0,210000.0,Banyak tamu
+5,2026-11-03,2026-11,60.0,1500.0,90000.0,Kulkas dan lampu
+6,2026-11-09,2026-11,75.5,1500.0,113250.0,AC ruang tamu
+7,2026-11-13,2026-11,40.0,1500.0,60000.0,Mesin cuci
